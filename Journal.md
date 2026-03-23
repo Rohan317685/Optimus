@@ -12,6 +12,7 @@ as a sort of resistor to provide current from a 9v pad to another pad connected 
 ![image](https://cdn.hackclub.com/019d12bc-8b63-74f6-b691-f9575e519884/circuit-20260321-2248.png)
 
 I ran into this issue that the current would be to low to trigger the base for the transistor, so I researched it and found that the darlington pair would be the best method to tackle this challenge.
-
+https://falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWEBmAHAJmgdgGzoRmACzICcpkORICkNNdCApgLRhgBQALiKqTiCJFUIUuhFCRdCCxgIikYWATJ5kVERXIo0HAlKoEYHMtJEsySCvBwQAEyYAzAIYBXADZduILAnQo-Hw0A-2kQNmgwVBNDLHQsIjBSLGTkViloNSU-VSI9fggwWwcXDy8AYxAcOJCqmpJ-ajBYeFa2uDBWLF5ocj7yVFQwNGJtGA6oDgBzOsbkf2rGqihJgHcfQNUFmq212dqcdVrIDgAnKqPdvxFdunHOdevwQ9FxZ7uOACVXkWM6MV+YFCKwUohWd0yHHWWGCyGQAhh1HQoJO0OCyP+bwxewB7x+IGxqPx2NxDT2iJQOBEFMk5OCtL4AlpRNJyyKoLy1BO51Z1Fx+mBRTgZxsHLZikYYhWQpOxn8-KluL0An8JTcnhY7iYdnA4J0kE4ctFkv87LoyoJ9ic6q4mu1uru+s4MyVCAEuKwinB02NVTdvs9XL2Tyubz+kwA9uARMs6ApyPRxpR8CtTTcOEA
+Here's the link i swear I will add html to this later 😭
 ### Time Spent: 5 Hours
 
