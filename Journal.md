@@ -16,3 +16,11 @@ https://falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWEBmAHAJmgdgGzoRmACz
 Here's the link i swear I will add html to this later 😭
 ### Time Spent: 5 Hours
 
+## Date - 24/3/26
+
+Today I made the schematic and the pcb and exported the gerber files. I also decided on mr. egg he's the pcb. I dont really know where i got a egg character from but I have it now I guess.Also I tried adding copper pads and got fedup with it so I just used pin header's: Basically you just keep your finger ontop of the pin headers and they make a resistor which triggers the transistors and lights up the led's.Also I did some of this in @shadow huddle which was fun!
+
+![image](https://cdn.hackclub.com/019d2141-e9e1-7147-9fdd-6008dcf0c876/20260324_18h54m05s_grim.png)
+
+### Time Spent: 2 Hours
+
