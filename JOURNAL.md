@@ -1,4 +1,4 @@
-#Optimus 
+# Optimus 
 
 I'm building Optimus (Touch pad blinky PCB) because of the fact that a lot of TTL circuits are VERY similar so I decided to change it up and make it more fun and original.
 
